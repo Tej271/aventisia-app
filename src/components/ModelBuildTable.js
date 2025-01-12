@@ -163,6 +163,7 @@ export const ModelBuildTable = ({ rows }) => {
                   </td>
                 )
               )}
+              <hr />
             </tr>
           ))}
         </tbody>
